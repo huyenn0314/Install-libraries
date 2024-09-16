@@ -44,3 +44,7 @@ ERROR: b9d29d27-8d3d-456b-bfb1-e0279603bc25: 500 Server Error: INTERNAL SERVER E
 
 100% [########################################################################################] Time:  0:00:44   3.6 MiB/s 
 Successfully downloaded: 20
+
+
+Check options:
+gdc-client download --help
